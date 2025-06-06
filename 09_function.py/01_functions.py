@@ -7,3 +7,4 @@ second = average(5,6,7)
 
 print(first)
 print(second)
+print(first + second)
