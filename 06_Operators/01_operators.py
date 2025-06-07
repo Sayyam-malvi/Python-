@@ -22,3 +22,4 @@ print(True and True)
 print(not(True))
 # This all are assignment operators 
 # += , -= , *= , /= , //= , %= , **= , 
+print(a>=34)
